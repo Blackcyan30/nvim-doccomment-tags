@@ -10,6 +10,7 @@ M.default_tags = {
 	"@version",
 	"@see",
 	"@since",
+	"@details",
 	"@throws",
 	"@exception",
 	"@deprecated",
